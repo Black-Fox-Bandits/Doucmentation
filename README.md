@@ -11,3 +11,23 @@
 | Sierra Maldonado | [Accounting 2](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.197Win%20Server.pdf) | 10.0.0.197 Win Server 2019 |
 | Sierra Maldonado | [CFO Laptop] | 10.0.0.206|
 | Geneva Knott | [Initial Scan](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/Initial%20scan%20.pdf) | Scan Results of Network
+
+
+# Network Topology - Deontae Carter
+</br>
+</br>
+<p align="center"> 
+<a href="https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/NT.png"><img src="https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/NT.png" width="60%" height="60%"/></a>
+<p align="left">
+   <br>
+  <br>
+   <br> 
+   <br> 
+   <br>
+    <br>
+     <br> 
+     <br>
+      <br>
+       <br>
+        <br>
+ <br>
