@@ -10,7 +10,7 @@
 | Name        |Link           |Description  |
 | ------------- |-------------| -----|
 | Black Fox Bandits | [PenTest Report](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/401d6-Team%232-Pentest%20Report.pdf) | Pen Test Report |
-| Fox Team | [74](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.74%20Win7.pdf) | 10.0.0.74 Win 7 |
+| Fox Team | [Risk-Analyst1](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.74%20Win7%20(1).pdf) | 10.0.0.74 Win 7 |
 | Jordan Marshall | [Vagrant](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.82%20Win7.pdf) |  10.0.0.82 Win 7 |
 | Deontae Carter | [Lin.Security](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.123Lin.pdf) | 10.0.0.123 Linux |
 | Geneva Knott | [Accounting 1](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.126%20WinServer.pdf) | 10.0.0.126 Win Server 2019 |
