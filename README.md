@@ -16,7 +16,7 @@
 | Geneva Knott | [Accounting 1](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.126%20WinServer.pdf) | 10.0.0.126 Win Server 2019 |
 | Deontae Carter | [Front-Facing Web Server](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.175Lin.pdf) | 10.0.0.175 Linux |
 | Sierra Maldonado | [Accounting 2](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.197Win%20Server.pdf) | 10.0.0.197 Win Server 2019 |
-| Sierra Maldonado | [CFO Laptop] | 10.0.0.206|
+| Sierra Maldonado | [CFO Laptop](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/10.0.0.206%20Win%20Server%202019.pdf) | 10.0.0.206|
 | Geneva Knott | [Initial Scan](https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/Initial%20scan%20.pdf) | Scan Results of Network
 </br>
 </br>
