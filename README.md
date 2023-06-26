@@ -25,7 +25,7 @@
 </br>
 </br>
 <p align="center"> 
-<a href="https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/NT.png"><img src="https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/NT.png" width="60%" height="60%"/></a>
+<a href="https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/NT.png"><img src="https://github.com/Black-Fox-Bandits/Doucmentation/blob/main/Network.png" width="60%" height="60%"/></a>
 <p align="left">
    <br>
   <br>
